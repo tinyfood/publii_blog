@@ -1,5 +1,12 @@
 {
   "name": "tinyfood",
   "version": 2,
-  "builds": [{ "src": "*.html", "use": "@now/html-minifier" }]
+  "alias": [
+    "www.tinyfood.org"
+  ],
+  "routes": [
+    { "src": "/(.*)", "status": 301, "headers": { "Location": "https://tinyfood.org/$1" }}
+  ]
+}
+
 }
