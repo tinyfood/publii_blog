@@ -2,11 +2,6 @@
   "name": "tinyfood",
   "version": 2,
   "alias": [
-    "www.tinyfood.org","tinyfood.org","tinyfood-git-master.tiny1.now.sh", "tinyfood.tiny1.now.sh"
-  ],
-  "routes": [
-    { "src": "/(.*)", "status": 301, "headers": { "Location": "https://tinyfood.org/$1" }}
+    "www.tinyfood.org"
   ]
-}
-
 }
