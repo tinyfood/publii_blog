@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tiny Food Quality Food Access Community Networks</title>
+    <link href="file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/feed.xml" rel="self" />
+    <link href="file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview" />
+    <updated>2019-06-05T01:10:33-06:00</updated>
+    <author>
+        <name>Tiny Food</name>
+    </author>
+    <id>file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview</id>
+
+    <entry>
+        <title>Food Hubs</title>
+        <author>
+            <name>Tiny Food</name>
+        </author>
+        <link href="file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/food-hubs.html"/>
+        <id>file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/food-hubs.html</id>
+
+        <updated>2019-06-04T22:28:08-06:00</updated>
+            <summary>
+                <![CDATA[
+                    TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Technologies that power Tiny Food</title>
+        <author>
+            <name>Tiny Food</name>
+        </author>
+        <link href="file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/technologies-that-power-tiny-food.html"/>
+        <id>file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/technologies-that-power-tiny-food.html</id>
+
+        <updated>2019-06-04T22:29:39-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Zeit, Github, Gitlab, Bitbucket backed content Netlify, Hugo, Hexo, Publii generated content Heroku, Saleor Deployments, Graphql heroku is a host from Salesforce, a technology company Tiny Food is seeking sponsorship from for its ability to help network SCD Hub's goals into their company groups seeking&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Zeit, Github, Gitlab, Bitbucket backed content</p>
+<p>Netlify, Hugo, Hexo, Publii generated content</p>
+<p>Heroku, Saleor Deployments, Graphql heroku is a host from Salesforce, a technology company Tiny Food is seeking sponsorship from for its ability to help network SCD Hub's goals into their company groups seeking to qualify or learn more about green and sustainability movements.</p>
+<p>AWS, ECS S3</p>
+<p>Django, Saleor</p>
+<p>Typescript, PWA</p>
+<p>Meteor, Hub API v1</p>
+<p>Django, Hub API v2</p>
+<p>Ionic hybrid app production</p>
+<p>Gimp &amp; Ionic in graphic design projects</p>
+<p>Ubuntu Linux operating system - for daily computer operations</p>
+<p><a href="https://quantum-circuit.com/">Perka'k Quantum Interface</a></p>
+<p>         https://github.com/perak/quantum-circuit</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tinyfood app hubs are going up now!</title>
+        <author>
+            <name>Tiny Food</name>
+        </author>
+        <link href="file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/tinyfood-app-hubs-are-going-up-now.html"/>
+        <id>file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/tinyfood-app-hubs-are-going-up-now.html</id>
+
+        <updated>2019-06-04T22:30:22-06:00</updated>
+            <summary>
+                <![CDATA[
+                    If you or someone you know would like to start a new hub to order direct from farmers, please get in touch and we will create an instance for you. But first~ We reccomend you try it yourself! let me explain: 1- Your site is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>If you or someone you know would like to start a new hub to order direct from farmers, please get in touch and we will create an instance for you.</p>
+<p>But first~ We reccomend you try it yourself! </p>
+<p>let me explain: 1- Your site is yours to own and operate, the ecommerce software is free software, and is able to run via a free plan on heroku.com ($7/mo plan speeds things up a little) 2- your code is the latest version of the Miramee app Saleor and it launches easily on heroku with the click of a button from Tiny Food's generic hub start template. We have customized a few things to make it easier to get started,but keep a new thread from </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
