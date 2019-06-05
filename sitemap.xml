@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://tinyfood.tiny1.now.sh/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/</loc>
+<loc>https://tinyfood.tiny1.now.sh/</loc>
 </url>
 <url>
-<loc>file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/food-hubs.html</loc>
+<loc>https://tinyfood.tiny1.now.sh/food-hubs.html</loc>
 <lastmod>2019-06-04T22:28:08-06:00</lastmod>
 </url>
 <url>
-<loc>file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/technologies-that-power-tiny-food.html</loc>
+<loc>https://tinyfood.tiny1.now.sh/technologies-that-power-tiny-food.html</loc>
 <lastmod>2019-06-04T22:29:39-06:00</lastmod>
 </url>
 <url>
-<loc>file:///home/geog/Documents/Publii/sites/tiny-food-quality-food-access-community-networks/preview/tinyfood-app-hubs-are-going-up-now.html</loc>
+<loc>https://tinyfood.tiny1.now.sh/tinyfood-app-hubs-are-going-up-now.html</loc>
 <lastmod>2019-06-04T22:30:22-06:00</lastmod>
 </url>
 </urlset>
