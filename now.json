@@ -1,5 +1,5 @@
 {
-  "name": "Tinyfood"
+  "name": "tinyfood",
   "version": 2,
   "builds": [{ "src": "*.html", "use": "@now/html-minifier" }]
 }
