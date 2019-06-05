@@ -3,7 +3,7 @@
     <title>Tiny Food Quality Food Access Community Networks</title>
     <link href="https://tinyfood.tiny1.now.sh/feed.xml" rel="self" />
     <link href="https://tinyfood.tiny1.now.sh" />
-    <updated>2019-06-05T03:03:09-06:00</updated>
+    <updated>2019-06-05T08:26:51-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://tinyfood.tiny1.now.sh/food-hubs/"/>
         <id>https://tinyfood.tiny1.now.sh/food-hubs/</id>
 
-        <updated>2019-06-04T22:28:08-06:00</updated>
+        <updated>2019-06-05T03:52:14-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://tinyfood.tiny1.now.sh/media/posts/3/society2_low-def.JPG" alt="" />
                     TinyFood.org strives to educate while improving access to high quality food. Our&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://tinyfood.tiny1.now.sh/media/posts/3/society2_low-def.JPG" alt="" />
                 TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.
             ]]>
         </content>
@@ -37,14 +39,16 @@
         <link href="https://tinyfood.tiny1.now.sh/technologies-that-power-tiny-food/"/>
         <id>https://tinyfood.tiny1.now.sh/technologies-that-power-tiny-food/</id>
 
-        <updated>2019-06-04T22:29:39-06:00</updated>
+        <updated>2019-06-05T03:55:42-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://tinyfood.tiny1.now.sh/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
                     Zeit, Github, Gitlab, Bitbucket backed content Netlify, Hugo, Hexo, Publii generated content&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://tinyfood.tiny1.now.sh/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
                 <p>Zeit, Github, Gitlab, Bitbucket backed content</p>
 <p>Netlify, Hugo, Hexo, Publii generated content</p>
 <p>Heroku, Saleor Deployments, Graphql heroku is a host from Salesforce, a technology company Tiny Food is seeking sponsorship from for its ability to help network SCD Hub's goals into their company groups seeking to qualify or learn more about green and sustainability movements.</p>

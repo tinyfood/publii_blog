@@ -16,13 +16,14 @@
             "title": "Food Hubs",
             "summary": "TinyFood.org strives to educate while improving access to high quality food. Our&hellip;",
             "content_html": "TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.",
+            "image": "https://tinyfood.tiny1.now.sh/media/posts/3/society2_low-def.JPG",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
             "date_published": "2019-06-04T21:40:44-06:00",
-            "date_modified": "2019-06-04T22:28:08-06:00"
+            "date_modified": "2019-06-05T03:52:14-06:00"
         },
         {
             "id": "https://tinyfood.tiny1.now.sh/technologies-that-power-tiny-food/",
@@ -30,13 +31,14 @@
             "title": "Technologies that power Tiny Food",
             "summary": "Zeit, Github, Gitlab, Bitbucket backed content Netlify, Hugo, Hexo, Publii generated content&hellip;",
             "content_html": "<p>Zeit, Github, Gitlab, Bitbucket backed content</p>\n<p>Netlify, Hugo, Hexo, Publii generated content</p>\n<p>Heroku, Saleor Deployments, Graphql heroku is a host from Salesforce, a technology company Tiny Food is seeking sponsorship from for its ability to help network SCD Hub's goals into their company groups seeking to qualify or learn more about green and sustainability movements.</p>\n<p>AWS, ECS S3</p>\n<p>Django, Saleor</p>\n<p>Typescript, PWA</p>\n<p>Meteor, Hub API v1</p>\n<p>Django, Hub API v2</p>\n<p>Ionic hybrid app production</p>\n<p>Gimp &amp; Ionic in graphic design projects</p>\n<p>Ubuntu Linux operating system - for daily computer operations</p>\n<p><a href=\"https://quantum-circuit.com/\">Perka'k Quantum Interface</a></p>\n<p>         https://github.com/perak/quantum-circuit</p>",
+            "image": "https://tinyfood.tiny1.now.sh/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
             "date_published": "2019-06-04T21:40:22-06:00",
-            "date_modified": "2019-06-04T22:29:39-06:00"
+            "date_modified": "2019-06-05T03:55:42-06:00"
         },
         {
             "id": "https://tinyfood.tiny1.now.sh/tinyfood-app-hubs-are-going-up-now/",
