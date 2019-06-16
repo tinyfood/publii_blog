@@ -3,7 +3,7 @@
     <title>Tiny Food Quality Food Access Community Networks</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-06-16T08:33:16-06:00</updated>
+    <updated>2019-06-16T08:55:37-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
@@ -33,36 +33,27 @@
         </content>
     </entry>
     <entry>
-        <title>Technologies that power Tiny Food</title>
+        <title>How To</title>
         <author>
             <name>Greg Willson</name>
         </author>
         <link href="https://tinyfood.org/technologies-that-power-tiny-food/"/>
         <id>https://tinyfood.org/technologies-that-power-tiny-food/</id>
 
-        <updated>2019-06-05T10:16:21-06:00</updated>
+        <updated>2019-06-16T08:55:27-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
-                    Zeit, Github, Gitlab, Bitbucket backed content Netlify, Hugo, Hexo, Publii generated content&hellip;
+                    There are several roles to fill in effective food hub. Farmers -&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
-                <p>Zeit, Github, Gitlab, Bitbucket backed content</p>
-<p>Netlify, Hugo, Hexo, Publii generated content</p>
-<p>Heroku, Saleor Deployments, Graphql heroku is a host from Salesforce, a technology company Tiny Food is seeking sponsorship from for its ability to help network SCD Hub's goals into their company groups seeking to qualify or learn more about green and sustainability movements.</p>
-<p>AWS, ECS S3</p>
-<p>Django, Saleor</p>
-<p>Typescript, PWA</p>
-<p>Meteor, Hub API v1</p>
-<p>Django, Hub API v2</p>
-<p>Ionic hybrid app production</p>
-<p>Gimp &amp; Ionic in graphic design projects</p>
-<p>Ubuntu Linux operating system - for daily computer operations</p>
-<p><a href="https://quantum-circuit.com/">Perka'k Quantum Interface</a></p>
-<p>         https://github.com/perak/quantum-circuit</p>
+                <p>There are several roles to fill in effective food hub.</p>
+<p>Farmers - Farmers can use the "Deploy to Heroku" button to create a new private Tiny Food instance. This service sets up a secure ecommerce system which is ready to integrate with a free <a href="https://stripe.com" title="Stripe Payment Service">Stripe</a> account.  free of charge, and uses a git service like, <a href="https://github.com">Github</a>, <a href="https://gitlab.com" title="Gitlab free versioned repository and CI CD service">gitlab</a>, or <a href="https:/bitbucket.org" title="Bit Bucket free versioned repository service">Bitbucket</a> to host the code which builds the app on heroku.</p>
+<p>  </p>
+<a href="https://www.heroku.com/deploy/?template=https://github.com/tinyfood/saleor"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
             ]]>
         </content>
     </entry>

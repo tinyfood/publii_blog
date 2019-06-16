@@ -14,10 +14,14 @@
 </url>
 <url>
 <loc>https://tinyfood.org/technologies-that-power-tiny-food/</loc>
-<lastmod>2019-06-05T10:16:21-06:00</lastmod>
+<lastmod>2019-06-16T08:55:27-06:00</lastmod>
 <image:image>
 <image:loc>https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://www.herokucdn.com/deploy/button.svg</image:loc>
+<image:title><![CDATA[Deploy]]></image:title>
 </image:image>
 </url>
 <url>
