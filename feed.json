@@ -2,48 +2,48 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Tiny Food Quality Food Access Community Networks",
     "description": "",
-    "home_page_url": "https://tinyfood.tiny1.now.sh",
-    "feed_url": "https://tinyfood.tiny1.now.sh/feed.json",
+    "home_page_url": "https://tinyfood.org",
+    "feed_url": "https://tinyfood.org/feed.json",
     "user_comment": "",
-    "icon": "https://tinyfood.tiny1.now.sh/media/website/banner-ppl3.png",
+    "icon": "https://tinyfood.org/media/website/tinyfood0001.png",
     "author": {
         "name": "Greg Willson"
     },
     "items": [
         {
-            "id": "https://tinyfood.tiny1.now.sh/food-hubs/",
-            "url": "https://tinyfood.tiny1.now.sh/food-hubs/",
+            "id": "https://tinyfood.org/food-hubs/",
+            "url": "https://tinyfood.org/food-hubs/",
             "title": "Food Hubs",
             "summary": "TinyFood.org strives to educate while improving access to high quality food. Our&hellip;",
-            "content_html": "TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.",
-            "image": "https://tinyfood.tiny1.now.sh/media/posts/3/society2_low-def.JPG",
+            "content_html": "<p>TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.</p>\n<p>We believe that high quality food is a human right,  Science has show us that consumption of high quality food prevents disease, increases congitive and metabolic functions, and speeds up the healing process.  Food connects us to our cultural, economic and environmental sustainability, and effects our community, family, and personal wellbeing.  By networking common needs, and enabling small groups to privately control their own food hub ordering systems, we aim to see huge benefit and transformation in these areas. of our lives and society.</p>",
+            "image": "https://tinyfood.org/media/posts/3/society2_low-def.JPG",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
             "date_published": "2019-06-04T21:40:44-06:00",
-            "date_modified": "2019-06-05T03:52:14-06:00"
+            "date_modified": "2019-06-05T09:44:51-06:00"
         },
         {
-            "id": "https://tinyfood.tiny1.now.sh/technologies-that-power-tiny-food/",
-            "url": "https://tinyfood.tiny1.now.sh/technologies-that-power-tiny-food/",
+            "id": "https://tinyfood.org/technologies-that-power-tiny-food/",
+            "url": "https://tinyfood.org/technologies-that-power-tiny-food/",
             "title": "Technologies that power Tiny Food",
             "summary": "Zeit, Github, Gitlab, Bitbucket backed content Netlify, Hugo, Hexo, Publii generated content&hellip;",
             "content_html": "<p>Zeit, Github, Gitlab, Bitbucket backed content</p>\n<p>Netlify, Hugo, Hexo, Publii generated content</p>\n<p>Heroku, Saleor Deployments, Graphql heroku is a host from Salesforce, a technology company Tiny Food is seeking sponsorship from for its ability to help network SCD Hub's goals into their company groups seeking to qualify or learn more about green and sustainability movements.</p>\n<p>AWS, ECS S3</p>\n<p>Django, Saleor</p>\n<p>Typescript, PWA</p>\n<p>Meteor, Hub API v1</p>\n<p>Django, Hub API v2</p>\n<p>Ionic hybrid app production</p>\n<p>Gimp &amp; Ionic in graphic design projects</p>\n<p>Ubuntu Linux operating system - for daily computer operations</p>\n<p><a href=\"https://quantum-circuit.com/\">Perka'k Quantum Interface</a></p>\n<p>         https://github.com/perak/quantum-circuit</p>",
-            "image": "https://tinyfood.tiny1.now.sh/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png",
+            "image": "https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
             "date_published": "2019-06-04T21:40:22-06:00",
-            "date_modified": "2019-06-05T03:55:42-06:00"
+            "date_modified": "2019-06-05T10:16:21-06:00"
         },
         {
-            "id": "https://tinyfood.tiny1.now.sh/tinyfood-app-hubs-are-going-up-now/",
-            "url": "https://tinyfood.tiny1.now.sh/tinyfood-app-hubs-are-going-up-now/",
-            "title": "Tinyfood app hubs are going up now!",
+            "id": "https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/",
+            "url": "https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/",
+            "title": "New food hubs now in testing phase",
             "summary": "If you or someone you know would like to start a new&hellip;",
             "content_html": "<p>If you or someone you know would like to start a new hub to order direct from farmers, please get in touch and we will create an instance for you.</p>\n<p>But first~ We reccomend you try it yourself! </p>\n<p>let me explain: 1- Your site is yours to own and operate, the ecommerce software is free software, and is able to run via a free plan on heroku.com ($7/mo plan speeds things up a little) 2- your code is the latest version of the Miramee app Saleor and it launches easily on heroku with the click of a button from Tiny Food's generic hub start template. We have customized a few things to make it easier to get started,but keep a new thread from </p>\n<p> </p>\n<p> </p>",
             "author": {
@@ -52,7 +52,7 @@
             "tags": [
             ],
             "date_published": "2019-06-04T10:21:52-06:00",
-            "date_modified": "2019-06-04T22:30:22-06:00"
+            "date_modified": "2019-06-16T07:53:46-06:00"
         }
     ]
 }

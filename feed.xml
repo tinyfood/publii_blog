@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tiny Food Quality Food Access Community Networks</title>
-    <link href="https://tinyfood.tiny1.now.sh/feed.xml" rel="self" />
-    <link href="https://tinyfood.tiny1.now.sh" />
-    <updated>2019-06-05T08:42:01-06:00</updated>
+    <link href="https://tinyfood.org/feed.xml" rel="self" />
+    <link href="https://tinyfood.org" />
+    <updated>2019-06-16T08:33:16-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
-    <id>https://tinyfood.tiny1.now.sh</id>
+    <id>https://tinyfood.org</id>
 
     <entry>
         <title>Food Hubs</title>
         <author>
             <name>Greg Willson</name>
         </author>
-        <link href="https://tinyfood.tiny1.now.sh/food-hubs/"/>
-        <id>https://tinyfood.tiny1.now.sh/food-hubs/</id>
+        <link href="https://tinyfood.org/food-hubs/"/>
+        <id>https://tinyfood.org/food-hubs/</id>
 
-        <updated>2019-06-05T03:52:14-06:00</updated>
+        <updated>2019-06-05T09:44:51-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tinyfood.tiny1.now.sh/media/posts/3/society2_low-def.JPG" alt="" />
+                        <img src="https://tinyfood.org/media/posts/3/society2_low-def.JPG" alt="" />
                     TinyFood.org strives to educate while improving access to high quality food. Our&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tinyfood.tiny1.now.sh/media/posts/3/society2_low-def.JPG" alt="" />
-                TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.
+                    <img src="https://tinyfood.org/media/posts/3/society2_low-def.JPG" alt="" />
+                <p>TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.</p>
+<p>We believe that high quality food is a human right,  Science has show us that consumption of high quality food prevents disease, increases congitive and metabolic functions, and speeds up the healing process.  Food connects us to our cultural, economic and environmental sustainability, and effects our community, family, and personal wellbeing.  By networking common needs, and enabling small groups to privately control their own food hub ordering systems, we aim to see huge benefit and transformation in these areas. of our lives and society.</p>
             ]]>
         </content>
     </entry>
@@ -36,19 +37,19 @@
         <author>
             <name>Greg Willson</name>
         </author>
-        <link href="https://tinyfood.tiny1.now.sh/technologies-that-power-tiny-food/"/>
-        <id>https://tinyfood.tiny1.now.sh/technologies-that-power-tiny-food/</id>
+        <link href="https://tinyfood.org/technologies-that-power-tiny-food/"/>
+        <id>https://tinyfood.org/technologies-that-power-tiny-food/</id>
 
-        <updated>2019-06-05T03:55:42-06:00</updated>
+        <updated>2019-06-05T10:16:21-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://tinyfood.tiny1.now.sh/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
+                        <img src="https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
                     Zeit, Github, Gitlab, Bitbucket backed content Netlify, Hugo, Hexo, Publii generated content&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://tinyfood.tiny1.now.sh/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
+                    <img src="https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
                 <p>Zeit, Github, Gitlab, Bitbucket backed content</p>
 <p>Netlify, Hugo, Hexo, Publii generated content</p>
 <p>Heroku, Saleor Deployments, Graphql heroku is a host from Salesforce, a technology company Tiny Food is seeking sponsorship from for its ability to help network SCD Hub's goals into their company groups seeking to qualify or learn more about green and sustainability movements.</p>
@@ -66,14 +67,14 @@
         </content>
     </entry>
     <entry>
-        <title>Tinyfood app hubs are going up now!</title>
+        <title>New food hubs now in testing phase</title>
         <author>
             <name>Greg Willson</name>
         </author>
-        <link href="https://tinyfood.tiny1.now.sh/tinyfood-app-hubs-are-going-up-now/"/>
-        <id>https://tinyfood.tiny1.now.sh/tinyfood-app-hubs-are-going-up-now/</id>
+        <link href="https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/"/>
+        <id>https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/</id>
 
-        <updated>2019-06-04T22:30:22-06:00</updated>
+        <updated>2019-06-16T07:53:46-06:00</updated>
             <summary>
                 <![CDATA[
                     If you or someone you know would like to start a new&hellip;
