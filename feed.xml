@@ -3,12 +3,40 @@
     <title>Tiny Food Quality Food Access Community Networks</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-06-16T10:07:04-06:00</updated>
+    <updated>2019-06-16T11:32:11-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
     <id>https://tinyfood.org</id>
 
+    <entry>
+        <title>Tiny Food Philosophy</title>
+        <author>
+            <name>Greg Willson</name>
+        </author>
+        <link href="https://tinyfood.org/tiny-food-philosophy/"/>
+        <id>https://tinyfood.org/tiny-food-philosophy/</id>
+
+        <updated>2019-06-16T11:31:17-06:00</updated>
+            <summary>
+                <![CDATA[
+                    We are a network which supports new users by allowing them to easily create their own 'nodes' on the network, or test instances of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are a network which supports new users by allowing them to easily create their own 'nodes' on the network, or test instances of Tiny Food's underlying software .  Nodes can be kept private, or used collectively by a small group.  A small group of community members who have an interest in seeing a more vibrant local food economy can come together by creating a new instance and making use of the secure app provided by heroku . (ie. [your food hub].herokuapp.com</p>
+<p><strong>Simplicity and Freedom</strong></p>
+<p>You are free to download and change our software to your own needs as per <a href="https://raw.githubusercontent.com/mirumee/saleor/master/LICENSE" title="BSD 3-Clause License">this license</a>. You are encouraged, but not required to share special customizations back to the network.</p>
+<p> </p>
+<p>but deploying their own copy </p>
+<p> </p>
+<p>can be deployed for small groups q</p>
+<p> </p>
+<p>UN Special Rapporteur on the right to food, <br><br>According to Oliver de Schutter has 3 rules for food he came to impose on himself:<br><br>1- to consume local as much as possible<br><br>2- fair trade focus for tropical products with support for communities around the source to develop social projects<br><br>3- favor fresh products that are cooked at home, rather than processed or ultra-processed</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Food Hubs</title>
         <author>
@@ -33,27 +61,30 @@
         </content>
     </entry>
     <entry>
-        <title>How To</title>
+        <title>How To &#x27;TinyFood&#x27;</title>
         <author>
             <name>Greg Willson</name>
         </author>
         <link href="https://tinyfood.org/technologies-that-power-tiny-food/"/>
         <id>https://tinyfood.org/technologies-that-power-tiny-food/</id>
 
-        <updated>2019-06-16T08:55:27-06:00</updated>
+        <updated>2019-06-16T11:05:29-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
-                    There are several roles to fill in effective food hub. Farmers - Farmers can use the "Deploy to Heroku" button to create a new&hellip;
+                     There are several roles to fill in effective food hub. Farmers - Farmers can use the "Deploy to Heroku" button to create a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
-                <p>There are several roles to fill in effective food hub.</p>
+                <p> </p>
+<p>There are several roles to fill in effective food hub.</p>
 <p>Farmers - Farmers can use the "Deploy to Heroku" button to create a new private Tiny Food instance. This service sets up a secure ecommerce system which is ready to integrate with a free <a href="https://stripe.com" title="Stripe Payment Service">Stripe</a> account.  free of charge, and uses a git service like, <a href="https://github.com">Github</a>, <a href="https://gitlab.com" title="Gitlab free versioned repository and CI CD service">gitlab</a>, or <a href="https:/bitbucket.org" title="Bit Bucket free versioned repository service">Bitbucket</a> to host the code which builds the app on heroku.</p>
 <p>  </p>
-<a href="https://www.heroku.com/deploy/?template=https://github.com/tinyfood/saleor"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<p><a href="https://www.heroku.com/deploy/?template=https://github.com/tinyfood/saleor"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a></p>
+<p>The button above, launches your own private instance of the latest Tiny Food hub ecommerce system.  The service makes use of <a href="https://github.com/mirumee/saleor">Saleor</a> as our shopping cart and inventory management.  Staff members can be added with specific permissions. We are currently working to add a 'farmer/producer login' and working from the following code branch:</p>
+<p><a href="https://github.com/SustainableCommunityDevelopmentHub/saleor/tree/Farmer-login">https://github.com/SustainableCommunityDevelopmentHub/saleor/tree/Farmer-login</a></p>
             ]]>
         </content>
     </entry>
