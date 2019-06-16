@@ -5,7 +5,6 @@
     "home_page_url": "https://tinyfood.org",
     "feed_url": "https://tinyfood.org/feed.json",
     "user_comment": "",
-    "icon": "https://tinyfood.org/media/website/tinyfood0001.png",
     "author": {
         "name": "Greg Willson"
     },
@@ -14,7 +13,7 @@
             "id": "https://tinyfood.org/food-hubs/",
             "url": "https://tinyfood.org/food-hubs/",
             "title": "Food Hubs",
-            "summary": "TinyFood.org strives to educate while improving access to high quality food. Our&hellip;",
+            "summary": "TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are&hellip;",
             "content_html": "<p>TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.</p>\n<p>We believe that high quality food is a human right,  Science has show us that consumption of high quality food prevents disease, increases congitive and metabolic functions, and speeds up the healing process.  Food connects us to our cultural, economic and environmental sustainability, and effects our community, family, and personal wellbeing.  By networking common needs, and enabling small groups to privately control their own food hub ordering systems, we aim to see huge benefit and transformation in these areas. of our lives and society.</p>",
             "image": "https://tinyfood.org/media/posts/3/society2_low-def.JPG",
             "author": {
@@ -23,13 +22,13 @@
             "tags": [
             ],
             "date_published": "2019-06-04T21:40:44-06:00",
-            "date_modified": "2019-06-05T09:44:51-06:00"
+            "date_modified": "2019-06-16T09:58:46-06:00"
         },
         {
             "id": "https://tinyfood.org/technologies-that-power-tiny-food/",
             "url": "https://tinyfood.org/technologies-that-power-tiny-food/",
             "title": "How To",
-            "summary": "There are several roles to fill in effective food hub. Farmers -&hellip;",
+            "summary": "There are several roles to fill in effective food hub. Farmers - Farmers can use the \"Deploy to Heroku\" button to create a new&hellip;",
             "content_html": "<p>There are several roles to fill in effective food hub.</p>\n<p>Farmers - Farmers can use the \"Deploy to Heroku\" button to create a new private Tiny Food instance. This service sets up a secure ecommerce system which is ready to integrate with a free <a href=\"https://stripe.com\" title=\"Stripe Payment Service\">Stripe</a> account.  free of charge, and uses a git service like, <a href=\"https://github.com\">Github</a>, <a href=\"https://gitlab.com\" title=\"Gitlab free versioned repository and CI CD service\">gitlab</a>, or <a href=\"https:/bitbucket.org\" title=\"Bit Bucket free versioned repository service\">Bitbucket</a> to host the code which builds the app on heroku.</p>\n<p>  </p>\n<a href=\"https://www.heroku.com/deploy/?template=https://github.com/tinyfood/saleor\"><img src=\"https://www.herokucdn.com/deploy/button.svg\" alt=\"Deploy\"></a>",
             "image": "https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png",
             "author": {
@@ -44,15 +43,16 @@
             "id": "https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/",
             "url": "https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/",
             "title": "New food hubs now in testing phase",
-            "summary": "If you or someone you know would like to start a new&hellip;",
+            "summary": "If you or someone you know would like to start a new hub to order direct from farmers, please get in touch and we&hellip;",
             "content_html": "<p>If you or someone you know would like to start a new hub to order direct from farmers, please get in touch and we will create an instance for you.</p>\n<p>But first~ We reccomend you try it yourself! </p>\n<p>let me explain: 1- Your site is yours to own and operate, the ecommerce software is free software, and is able to run via a free plan on heroku.com ($7/mo plan speeds things up a little) 2- your code is the latest version of the Miramee app Saleor and it launches easily on heroku with the click of a button from Tiny Food's generic hub start template. We have customized a few things to make it easier to get started,but keep a new thread from </p>\n<p> </p>\n<p> </p>",
+            "image": "https://tinyfood.org/media/posts/1/tinyfood0001.png",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
             "date_published": "2019-06-04T10:21:52-06:00",
-            "date_modified": "2019-06-16T07:53:46-06:00"
+            "date_modified": "2019-06-16T10:06:52-06:00"
         }
     ]
 }

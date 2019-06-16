@@ -3,7 +3,7 @@
     <title>Tiny Food Quality Food Access Community Networks</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-06-16T08:55:37-06:00</updated>
+    <updated>2019-06-16T10:07:04-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://tinyfood.org/food-hubs/"/>
         <id>https://tinyfood.org/food-hubs/</id>
 
-        <updated>2019-06-05T09:44:51-06:00</updated>
+        <updated>2019-06-16T09:58:46-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tinyfood.org/media/posts/3/society2_low-def.JPG" alt="" />
-                    TinyFood.org strives to educate while improving access to high quality food. Our&hellip;
+                    TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -44,7 +44,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tinyfood.org/media/posts/2/Screenshot-from-2019-06-04-22-32-08.png" alt="" />
-                    There are several roles to fill in effective food hub. Farmers -&hellip;
+                    There are several roles to fill in effective food hub. Farmers - Farmers can use the "Deploy to Heroku" button to create a new&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -65,14 +65,16 @@
         <link href="https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/"/>
         <id>https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/</id>
 
-        <updated>2019-06-16T07:53:46-06:00</updated>
+        <updated>2019-06-16T10:06:52-06:00</updated>
             <summary>
                 <![CDATA[
-                    If you or someone you know would like to start a new&hellip;
+                        <img src="https://tinyfood.org/media/posts/1/tinyfood0001.png" alt="" />
+                    If you or someone you know would like to start a new hub to order direct from farmers, please get in touch and we&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://tinyfood.org/media/posts/1/tinyfood0001.png" alt="" />
                 <p>If you or someone you know would like to start a new hub to order direct from farmers, please get in touch and we will create an instance for you.</p>
 <p>But first~ We reccomend you try it yourself! </p>
 <p>let me explain: 1- Your site is yours to own and operate, the ecommerce software is free software, and is able to run via a free plan on heroku.com ($7/mo plan speeds things up a little) 2- your code is the latest version of the Miramee app Saleor and it launches easily on heroku with the click of a button from Tiny Food's generic hub start template. We have customized a few things to make it easier to get started,but keep a new thread from </p>
