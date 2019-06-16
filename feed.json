@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/",
+            "url": "https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/",
+            "title": "North Country Shoppers Hub",
+            "summary": "Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk&hellip;",
+            "content_html": "Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk staples shoppers who venture to Trader Joes, Costco, or other regional health food stores with products that are specifically difficult to find locally, or priced significantly better further away.",
+            "image": "https://tinyfood.org/media/posts/6/tinyfood0002_chickengreeting.png",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-16T11:43:08-06:00",
+            "date_modified": "2019-06-16T12:01:47-06:00"
+        },
+        {
             "id": "https://tinyfood.org/tiny-food-philosophy/",
             "url": "https://tinyfood.org/tiny-food-philosophy/",
             "title": "Tiny Food Philosophy",

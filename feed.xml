@@ -3,12 +3,34 @@
     <title>Tiny Food Quality Food Access Community Networks</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-06-16T11:32:11-06:00</updated>
+    <updated>2019-06-16T12:02:31-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
     <id>https://tinyfood.org</id>
 
+    <entry>
+        <title>North Country Shoppers Hub</title>
+        <author>
+            <name>Greg Willson</name>
+        </author>
+        <link href="https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/"/>
+        <id>https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/</id>
+
+        <updated>2019-06-16T12:01:47-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tinyfood.org/media/posts/6/tinyfood0002_chickengreeting.png" alt="" />
+                    Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tinyfood.org/media/posts/6/tinyfood0002_chickengreeting.png" alt="" />
+                Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk staples shoppers who venture to Trader Joes, Costco, or other regional health food stores with products that are specifically difficult to find locally, or priced significantly better further away.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tiny Food Philosophy</title>
         <author>
