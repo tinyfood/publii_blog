@@ -10,11 +10,40 @@
     },
     "items": [
         {
+            "id": "https://tinyfood.org/ned-food-hub/",
+            "url": "https://tinyfood.org/ned-food-hub/",
+            "title": "Ned Food Hub",
+            "summary": "My goal for this hub is to network with some of my friends and neighbors who have expressed interest in high quality food access,&hellip;",
+            "content_html": "<p>My goal for this hub is to network with some of my friends and neighbors who have expressed interest in high quality food access, and willing to work together.</p>\n<p>To me, 'high quality food access' optimizes locality, freshness, seasonality, healthy diets and mindbendingly delicious recipies that inspire us to reach out more to one another, while creating healthy containers for positive interaction with other members of the general community.</p>\n<p>This food hub is live as of this writing:</p>\n<p><a href=\"https://nedfoodhub.herokuapp.com\">https://nedfoodhub.herokuapp.com</a></p>\n<p>  I am currenty working on adding some of my products. </p>\n<p> </p>",
+            "image": "https://tinyfood.org/media/posts/9/Screenshot-from-2019-06-18-20-15-36.png",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-16T16:03:42-06:00",
+            "date_modified": "2019-06-19T05:44:09-06:00"
+        },
+        {
+            "id": "https://tinyfood.org/north-coast-shoppers-and-farmers-hub/",
+            "url": "https://tinyfood.org/north-coast-shoppers-and-farmers-hub/",
+            "title": "North Country Shoppers Hub and North Country Farmer Hub",
+            "summary": "Tiny Food got its start talking to farmers in the Canton region, and studying what the Open Food Network had accomplished in its first&hellip;",
+            "content_html": "<p>Tiny Food got its start talking to farmers in the Canton region, and studying what the <a href=\"https://openfoodnetwork.org\" title=\"Open Food Network\">Open Food Network</a> had accomplished in its first ten years of steady growth internationally.  There was an expressed need for better visibility for local food sources and access to new markets to help them grow their businesses.  The region is beautiul and has many residents who have grown up with a rich farming history and way of life.</p>\n<p>Tiny Food is not a service to assist the elite of our society, rather it is a way to lift up and appreciate those who are the providers. </p>\n<p>We recognize that there is wealth of land knowlege in practice in the north country, and it is our goal to credit those who have worked hard to develop their own methodologies and it is our highest hope that through the use of this project new farmers are connected to good learning opportunities supporting a well informed next generation of sustainable agriculture practitioners.</p>\n<p><a href=\"https://www.traderjoes.com/fearless-flyer\">https://www.traderjoes.com/fearless-flyer</a></p>\n<p>The sites we are developing are live here:</p>\n<p><a href=\"https://northcountry.herokuapp.com\" title=\"North Country Shoppers Hub\">North Country Shoppers Hub</a>  https://northcountry.herokuapp.com</p>\n<p><a href=\"https://northcountry.herokuapp.com\" title=\"North Country Shoppers Hub\">North Country Farmers Hub</a>  <a href=\"https://northcountryfarmers.herokuapp.com\">https://northcountryfarmers.herokuapp.com</a></p>\n<p>Northcountry Tiny Food App making use of both: http://northcountry.now.sh</p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-16T13:04:29-06:00",
+            "date_modified": "2019-06-16T15:17:32-06:00"
+        },
+        {
             "id": "https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/",
             "url": "https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/",
-            "title": "North Country Shoppers Hub",
-            "summary": "Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk&hellip;",
-            "content_html": "Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk staples shoppers who venture to Trader Joes, Costco, or other regional health food stores with products that are specifically difficult to find locally, or priced significantly better further away.",
+            "title": "New community hubs forming",
+            "summary": "Ned Food Hub live demo site Ned food hub is currently directed at a small group of interested consumers who would like to collaborate&hellip;",
+            "content_html": "<p><strong>Ned Food Hub  <a href=\"https://nedfoodhub.herokuapp.com\" title=\"Ned Food Hub\">live demo site</a></strong></p>\n<p> Ned food hub is currently directed at a small group of interested consumers who would like to collaborate on purchases at several Boulder and Nederland markets and supermarkets. We are testing the app for finer details, and inviting interested users to try it out.  <a href=\"#INTERNAL_LINK#/post/9\">details</a></p>\n<p><strong>North Country Farmers and Shoppers Hub  <a href=\"https://northcountry.herokuapp.com\" title=\"live Northcountry NY test site\">live demo site</a></strong></p>\n<p>Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk staples shoppers who venture to Trader Joes, Costco, or other regional health food stores with products that are specifically difficult to find locally, or priced significantly better further away. <a href=\"north-coast-shoppers-and-farmers-hub\" title=\"North Coast Shoppers and Farmers Huib\">details</a></p>\n<p><strong>Mamawatoto Womens' Group Shop, Machakos, Kenya  <a href=\"https://dukamamawatoto.herokuapp.com\" title=\"DukaMamawatoto\">live demo site</a></strong></p>\n<p>Claudia Mbibda Mwende has been working in her home community of Machakos, Kenya, located halfway between the busy port city of Mambasa and Kenya's inland capitol, Nairobi. She has worked with groups to develop new products from waste stream materials sources, in support of job creation, zero waste initiatives, gardens and nurseries.  Tiny Food proudly works to support Claudia's work and that of the groups she works with.</p>",
             "image": "https://tinyfood.org/media/posts/6/tinyfood0002_chickengreeting.png",
             "author": {
                 "name": "Greg Willson"
@@ -22,28 +51,28 @@
             "tags": [
             ],
             "date_published": "2019-06-16T11:43:08-06:00",
-            "date_modified": "2019-06-16T12:01:47-06:00"
+            "date_modified": "2019-06-19T05:34:58-06:00"
         },
         {
             "id": "https://tinyfood.org/tiny-food-philosophy/",
             "url": "https://tinyfood.org/tiny-food-philosophy/",
-            "title": "Tiny Food Philosophy",
-            "summary": "We are a network which supports new users by allowing them to easily create their own 'nodes' on the network, or test instances of&hellip;",
-            "content_html": "<p>We are a network which supports new users by allowing them to easily create their own 'nodes' on the network, or test instances of Tiny Food's underlying software .  Nodes can be kept private, or used collectively by a small group.  A small group of community members who have an interest in seeing a more vibrant local food economy can come together by creating a new instance and making use of the secure app provided by heroku . (ie. [your food hub].herokuapp.com</p>\n<p><strong>Simplicity and Freedom</strong></p>\n<p>You are free to download and change our software to your own needs as per <a href=\"https://raw.githubusercontent.com/mirumee/saleor/master/LICENSE\" title=\"BSD 3-Clause License\">this license</a>. You are encouraged, but not required to share special customizations back to the network.</p>\n<p> </p>\n<p>but deploying their own copy </p>\n<p> </p>\n<p>can be deployed for small groups q</p>\n<p> </p>\n<p>UN Special Rapporteur on the right to food, <br><br>According to Oliver de Schutter has 3 rules for food he came to impose on himself:<br><br>1- to consume local as much as possible<br><br>2- fair trade focus for tropical products with support for communities around the source to develop social projects<br><br>3- favor fresh products that are cooked at home, rather than processed or ultra-processed</p>",
+            "title": "More local, relevant tilth",
+            "summary": "TinyFood.org's goals are in parallel with those set out by the Open Food Network to help foster a deeper understanding with the land through connection.",
+            "content_html": "<p>TinyFood.org's goals are in parallel with those set out by the <a href=\"https://openfoodnetwork.org\" title=\"Open Food Network\">Open Food Network</a> to help foster <span style=\"font-size: inherit;\">a deeper understanding with the land through connection.</span></p>\n<p>We are a network which supports new users by allowing them to easily create their own 'nodes' on the network, or test instances of Tiny Food's underlying software .  Nodes can be kept private, or used collectively by a small group.  A small group of community members who have an interest in seeing a more vibrant local food economy can come together by creating a new instance and making use of the secure app provided by heroku . (ie. [your food hub].herokuapp.com</p>\n<p><strong>Simplicity and Freedom</strong></p>\n<p>You are free to download and change our software to your own needs as per <a href=\"https://raw.githubusercontent.com/mirumee/saleor/master/LICENSE\" title=\"BSD 3-Clause License\">this license</a>. You are encouraged, but not required to share special customizations back to the network.</p>\n<p> </p>\n<p>but deploying their own copy </p>\n<p> </p>\n<p>can be deployed for small groups q</p>\n<p> </p>\n<p>UN Special Rapporteur on the right to food, <br><br>According to Oliver de Schutter has 3 rules for food he came to impose on himself:<br><br>1- to consume local as much as possible<br><br>2- fair trade focus for tropical products with support for communities around the source to develop social projects<br><br>3- favor fresh products that are cooked at home, rather than processed or ultra-processed</p>",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
             "date_published": "2019-06-16T10:53:42-06:00",
-            "date_modified": "2019-06-16T11:31:17-06:00"
+            "date_modified": "2019-06-19T05:40:49-06:00"
         },
         {
             "id": "https://tinyfood.org/food-hubs/",
             "url": "https://tinyfood.org/food-hubs/",
-            "title": "Food Hubs",
+            "title": "Co-operating a Food Hub",
             "summary": "TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are&hellip;",
-            "content_html": "<p>TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.</p>\n<p>We believe that high quality food is a human right,  Science has show us that consumption of high quality food prevents disease, increases congitive and metabolic functions, and speeds up the healing process.  Food connects us to our cultural, economic and environmental sustainability, and effects our community, family, and personal wellbeing.  By networking common needs, and enabling small groups to privately control their own food hub ordering systems, we aim to see huge benefit and transformation in these areas. of our lives and society.</p>",
+            "content_html": "<p>TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.</p>\n<p>Why not simply use OFN? Why re-create the wheel?</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-14-36-44.png\" ><img src=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-14-36-44-thumbnail.png\" alt=\"\" width=\"768\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-13-38-29.png\" ><img src=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-13-38-29-thumbnail.png\" alt=\"\" width=\"768\" height=\"448\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-14-15-06.png\" ><img src=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-14-15-06-thumbnail.png\" alt=\"\" width=\"768\" height=\"516\"></a></figure>\n</div>\n<p>We believe that high quality food is a human right,  Science has show us that consumption of high quality food prevents disease, increases congitive and metabolic functions, and speeds up the healing process.  Food connects us to our cultural, economic and environmental sustainability, and effects our community, family, and personal wellbeing.  By networking common needs, and enabling small groups to privately control their own food hub ordering systems, we aim to see huge benefit and transformation in these areas. of our lives and society.</p>\n<p><img class=\"post__image\" src=\"https://tinyfood.org/media/posts/3/Screenshot-from-2019-06-16-13-10-36.png\" alt=\"Olivier De Schutter - OFN Ambassador\" width=\"748\" height=\"393\"></p>",
             "image": "https://tinyfood.org/media/posts/3/society2_low-def.JPG",
             "author": {
                 "name": "Greg Willson"
@@ -51,7 +80,7 @@
             "tags": [
             ],
             "date_published": "2019-06-04T21:40:44-06:00",
-            "date_modified": "2019-06-16T12:10:06-06:00"
+            "date_modified": "2019-06-17T08:02:09-06:00"
         },
         {
             "id": "https://tinyfood.org/technologies-that-power-tiny-food/",
