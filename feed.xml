@@ -3,7 +3,7 @@
     <title>Tiny Food Community Hubs</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-06-19T11:41:41-06:00</updated>
+    <updated>2019-06-19T14:23:42-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
@@ -98,7 +98,7 @@
         <link href="https://tinyfood.org/tiny-food-philosophy/"/>
         <id>https://tinyfood.org/tiny-food-philosophy/</id>
 
-        <updated>2019-06-19T10:14:07-06:00</updated>
+        <updated>2019-06-19T14:23:13-06:00</updated>
             <summary>
                 <![CDATA[
                     TinyFood.org's goals are in parallel with the values set out by the Open Food Network to help foster a deeper understanding with the land through&hellip;
@@ -107,6 +107,53 @@
         <content type="html">
             <![CDATA[
                 <p>TinyFood.org's goals are in parallel with the <a href="https://openfoodnetwork.org/about/values/" title="OFN Values">values</a> set out by the <a href="https://openfoodnetwork.org" title="Open Food Network">Open Food Network</a> to help foster <span style="font-size: inherit;">a deeper understanding with the land through con</span></p>
+<div class="fusion-fullwidth fullwidth-box fusion-parallax-none centerall donation-choices">
+<div class="fusion-row">
+<div class="fusion-one-third one_third fusion-layout-column fusion-spacing-yes donation-choice">
+<div class="fusion-column-wrapper">
+<p id="mcetoc_1ddokq60j0"><strong>Vision to co-create the global commons</strong></p>
+<p class="description"><strong>Relationships food, all of life, and spirit our our existance.</strong></p>
+</div>
+</div>
+<div class="fusion-one-third one_third fusion-layout-column fusion-spacing-yes donation-choice">
+<div class="fusion-column-wrapper">
+<p class="description"><strong>Farmers and producers dedicated to ecosystem regenerative forms of agriculture, that (re)build resilient natural systems, taking into account soil, air, water and biodiversity.</strong></p>
+</div>
+</div>
+<div class="fusion-one-third one_third fusion-layout-column fusion-column-last fusion-spacing-yes donation-choice"> </div>
+<div class="fusion-one-third one_third fusion-layout-column fusion-spacing-yes donation-choice">
+<div class="fusion-column-wrapper">
+<p id="mcetoc_1ddokq60j3">Transparency in the software platform and the organisation.</p>
+</div>
+</div>
+<div class="fusion-column-wrapper">
+<h4 id="mcetoc_1ddokq60j4">Empowerment to create the lives people want for themselves through a real say in their food system.</h4>
+</div>
+<div class="fusion-column-wrapper">
+<h4 id="mcetoc_1ddokq60j5">Subsidiarity problem solving approach at the lowest appropriate level  </h4>
+</div>
+<div class="fusion-column-wrapper">
+<h4 id="mcetoc_1ddokq60j6">People First with people systems, where care and empathy for each other through solidarity, diversity, inclusivity and tolerance</h4>
+</div>
+<div class="fusion-column-wrapper">
+<h4 id="mcetoc_1ddokq60j7">Constant Evolution requiring constant adaptation and agility.</h4>
+</div>
+<div class="fusion-one-third one_third fusion-layout-column fusion-column-last fusion-spacing-yes donation-choice">
+<div class="fusion-column-wrapper">
+<p id="mcetoc_1ddokq60j8"><strong>Systemic global change to address the root cause of current ills, not its symptoms.</strong></p>
+</div>
+</div>
+<div class="fusion-clearfix"> </div>
+</div>
+</div>
+<div class="fusion-fullwidth fullwidth-box fusion-parallax-none whitetext world-signup centerall">
+<div class="fusion-row">
+<h2 id="mcetoc_1ddokq60j9">So if OFN Exists, why Tiny Food?</h2>
+<p>Tiny food is built on software that is over 10 years more modern than the core CMS being used for the OFN platform.   TF is working to transition new users with the flexibility of Saleor software platform, and has have good success creating new instances for new user groups and use cases on heroku, free of charge.  This low bar for participation excites the team as we see new relevancy in the states, Kenya and beyond.</p>
+</div>
+</div>
+<p> </p>
+<p> </p>
 <p>We are a network which supports new users by allowing them to easily create their own 'nodes' on the network, or test instances of Tiny Food's underlying software .  Nodes can be kept private, or used collectively by a small group.  A small group of community members who have an interest in seeing a more vibrant local food economy can come together by creating a new instance and making use of the secure app provided by heroku . (ie. [your food hub name].herokuapp.com</p>
 <p><strong>Simplicity and Freedom</strong></p>
 <p>You are free to download and change our software to your own needs as per <a href="https://raw.githubusercontent.com/mirumee/saleor/master/LICENSE" title="BSD 3-Clause License">this license</a>. You are encouraged, but not required to share special customizations back to the network.</p>
