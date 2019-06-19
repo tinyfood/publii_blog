@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Tiny Improvements Project</title>
+    <title>Tiny Food Community Hubs</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-06-19T09:09:10-06:00</updated>
+    <updated>2019-06-19T11:41:41-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
@@ -37,14 +37,14 @@
         </content>
     </entry>
     <entry>
-        <title>North Country Shoppers Hub and North Country Farmer Hub</title>
+        <title>Tiny Food Canton</title>
         <author>
             <name>Greg Willson</name>
         </author>
         <link href="https://tinyfood.org/north-coast-shoppers-and-farmers-hub/"/>
         <id>https://tinyfood.org/north-coast-shoppers-and-farmers-hub/</id>
 
-        <updated>2019-06-16T15:17:32-06:00</updated>
+        <updated>2019-06-19T10:18:39-06:00</updated>
             <summary>
                 <![CDATA[
                     Tiny Food got its start talking to farmers in the Canton region, and studying what the Open Food Network had accomplished in its first&hellip;
@@ -71,7 +71,7 @@
         <link href="https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/"/>
         <id>https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/</id>
 
-        <updated>2019-06-19T05:34:58-06:00</updated>
+        <updated>2019-06-19T10:19:09-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tinyfood.org/media/posts/6/tinyfood0002_chickengreeting.png" alt="" />
@@ -83,7 +83,7 @@
                     <img src="https://tinyfood.org/media/posts/6/tinyfood0002_chickengreeting.png" alt="" />
                 <p><strong>Ned Food Hub  <a href="https://nedfoodhub.herokuapp.com" title="Ned Food Hub">live demo site</a></strong></p>
 <p> Ned food hub is currently directed at a small group of interested consumers who would like to collaborate on purchases at several Boulder and Nederland markets and supermarkets. We are testing the app for finer details, and inviting interested users to try it out.  <a href="#INTERNAL_LINK#/post/9">details</a></p>
-<p><strong>North Country Farmers and Shoppers Hub  <a href="https://northcountry.herokuapp.com" title="live Northcountry NY test site">live demo site</a></strong></p>
+<p><strong>Tiny Food Canton  <a href="https://northcountry.herokuapp.com" title="live Northcountry NY test site">live demo site</a></strong></p>
 <p>Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk staples shoppers who venture to Trader Joes, Costco, or other regional health food stores with products that are specifically difficult to find locally, or priced significantly better further away. <a href="north-coast-shoppers-and-farmers-hub" title="North Coast Shoppers and Farmers Huib">details</a></p>
 <p><strong>Mamawatoto Womens' Group Shop, Machakos, Kenya  <a href="https://dukamamawatoto.herokuapp.com" title="DukaMamawatoto">live demo site</a></strong></p>
 <p>Claudia Mbibda Mwende has been working in her home community of Machakos, Kenya, located halfway between the busy port city of Mambasa and Kenya's inland capitol, Nairobi. She has worked with groups to develop new products from waste stream materials sources, in support of job creation, zero waste initiatives, gardens and nurseries.  Tiny Food proudly works to support Claudia's work and that of the groups she works with.</p>
@@ -98,22 +98,21 @@
         <link href="https://tinyfood.org/tiny-food-philosophy/"/>
         <id>https://tinyfood.org/tiny-food-philosophy/</id>
 
-        <updated>2019-06-19T08:28:45-06:00</updated>
+        <updated>2019-06-19T10:14:07-06:00</updated>
             <summary>
                 <![CDATA[
-                    TinyFood.org's goals are in parallel with those set out by the Open Food Network to help foster a deeper understanding with the land through connection.
+                    TinyFood.org's goals are in parallel with the values set out by the Open Food Network to help foster a deeper understanding with the land through&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>TinyFood.org's goals are in parallel with those set out by the <a href="https://openfoodnetwork.org" title="Open Food Network">Open Food Network</a> to help foster <span style="font-size: inherit;">a deeper understanding with the land through connection.</span></p>
+                <p>TinyFood.org's goals are in parallel with the <a href="https://openfoodnetwork.org/about/values/" title="OFN Values">values</a> set out by the <a href="https://openfoodnetwork.org" title="Open Food Network">Open Food Network</a> to help foster <span style="font-size: inherit;">a deeper understanding with the land through con</span></p>
 <p>We are a network which supports new users by allowing them to easily create their own 'nodes' on the network, or test instances of Tiny Food's underlying software .  Nodes can be kept private, or used collectively by a small group.  A small group of community members who have an interest in seeing a more vibrant local food economy can come together by creating a new instance and making use of the secure app provided by heroku . (ie. [your food hub name].herokuapp.com</p>
 <p><strong>Simplicity and Freedom</strong></p>
 <p>You are free to download and change our software to your own needs as per <a href="https://raw.githubusercontent.com/mirumee/saleor/master/LICENSE" title="BSD 3-Clause License">this license</a>. You are encouraged, but not required to share special customizations back to the network.</p>
 <p> </p>
-<p>but deploying their own copy </p>
-<p> </p>
-<p>can be deployed for small groups q</p>
+<p><strong>Run your own hub, or get help.</strong></p>
+<p>New test and live instances for small groups can be deployed quickly with the use of the heroku launch button below. Code for this application depends upon the uptream . Please be aware of its <a href="https://github.com/mirumee/saleor/issues" title="https://github.com/mirumee/saleor/issues">issue queue</a>,  downloadable here, and can be worked on easily via git, as we are open to pull requests related to customizing <a href="https://github.com/mirumee/saleor">Saleor</a>.  The project currently has 4854 stars an</p>
 <p> </p>
 <p>UN Special Rapporteur on the right to food, <br><br>According to Oliver de Schutter has 3 rules for food he came to impose on himself:<br><br>1- to consume local as much as possible<br><br>2- fair trade focus for tropical products with support for communities around the source to develop social projects<br><br>3- favor fresh products that are cooked at home, rather than processed or ultra-processed</p>
             ]]>
