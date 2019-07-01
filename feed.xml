@@ -3,12 +3,45 @@
     <title>Tiny Food Community Hubs</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-06-30T10:45:33-06:00</updated>
+    <updated>2019-07-01T12:51:27-06:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
     <id>https://tinyfood.org</id>
 
+    <entry>
+        <title>Farmer resources</title>
+        <author>
+            <name>Greg Willson</name>
+        </author>
+        <link href="https://tinyfood.org/farmer-resources/"/>
+        <id>https://tinyfood.org/farmer-resources/</id>
+
+        <updated>2019-07-01T12:47:23-06:00</updated>
+            <summary>
+                <![CDATA[
+                     Funding Resources https://smallfarms.cornell.edu/resources/funding/grants/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<strong>Free tinyfood individual farm sales website hosting and launch button </strong><br>
+<ul>
+<li style="list-style-type: none">
+<ul>
+<li>   - Tinyfood.org does not charge farmers or hub users to make use of the resources we provide. There is no montly fee becuase our tools use the free tier of heroku, now.sh and git</li>
+<li></li>
+<li></li>
+<li><strong>Customizing your site</strong> ( this can be done later, your site is ready once you connect stripe or braintree to collect payments. ) <br> - name of farm or food hub, contact information &amp; farm identity graphic <br> - homepage text <br> - homepage images ( welcome graphic, and two half width category graphics) <br> - category name, category description text, category graphic <br> - initial products and inventory availability <br> - product variation options <br> - additional staff members ( you can limit access per user) <br> - mailchimp.com account for developing and managing your farm / food hub mailing list </li>
+</ul>
+</li>
+</ul>
+<p><strong>Funding Resources</strong></p>
+<p>https://smallfarms.cornell.edu/resources/funding/grants/</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ned Food Hub</title>
         <author>
