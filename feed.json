@@ -5,29 +5,59 @@
     "home_page_url": "https://tinyfood.org",
     "feed_url": "https://tinyfood.org/feed.json",
     "user_comment": "",
+    "icon": "https://tinyfood.org/media/website/tinyfood0002a.png",
     "author": {
         "name": "Greg Willson"
     },
     "items": [
         {
-            "id": "https://tinyfood.org/farmer-resources/",
-            "url": "https://tinyfood.org/farmer-resources/",
-            "title": "Farmer resources",
-            "summary": " Funding Resources https://smallfarms.cornell.edu/resources/funding/grants/",
-            "content_html": "<p> </p>\n<strong>Free tinyfood individual farm sales website hosting and launch button </strong><br>\n<ul>\n<li style=\"list-style-type: none\">\n<ul>\n<li>   - Tinyfood.org does not charge farmers or hub users to make use of the resources we provide. There is no montly fee becuase our tools use the free tier of heroku, now.sh and git</li>\n<li></li>\n<li></li>\n<li><strong>Customizing your site</strong> ( this can be done later, your site is ready once you connect stripe or braintree to collect payments. ) <br> - name of farm or food hub, contact information &amp; farm identity graphic <br> - homepage text <br> - homepage images ( welcome graphic, and two half width category graphics) <br> - category name, category description text, category graphic <br> - initial products and inventory availability <br> - product variation options <br> - additional staff members ( you can limit access per user) <br> - mailchimp.com account for developing and managing your farm / food hub mailing list </li>\n</ul>\n</li>\n</ul>\n<p><strong>Funding Resources</strong></p>\n<p>https://smallfarms.cornell.edu/resources/funding/grants/</p>",
+            "id": "https://tinyfood.org/regions/",
+            "url": "https://tinyfood.org/regions/",
+            "title": "Regions",
+            "summary": "If you are part of a food hub and would like to&hellip;",
+            "content_html": "<p>If you are part of a food hub and would like to try out our sofrware, we will list your hub here.</p>\n<p> </p>\n<p>Currently all hubs are in formation phase, and web shops have been set up for farmers and producers ain the following regions:</p>\n<p>Canton/Potsdam Northcountry Region of Upstate New York, USA  (<a href=\"https://northcountry.herokuapp.com\" title=\"Northcountry Food Hub App\" target=\"_blank\" rel=\"noopener noreferrer\">hub app</a>)</p>\n<p>Boulder Colorado, USA  (hub app)</p>\n<p>Machakos, Kenya  (hub app)</p>\n<p>Kibera/Njiru Kenya  (hub app)</p>",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
-            "date_published": "2019-07-01T12:47:23-06:00",
-            "date_modified": "2019-07-01T12:47:23-06:00"
+            "date_published": "2019-07-10T16:55:18-04:00",
+            "date_modified": "2019-07-10T16:55:18-04:00"
+        },
+        {
+            "id": "https://tinyfood.org/tiny-food-concept/",
+            "url": "https://tinyfood.org/tiny-food-concept/",
+            "title": "Tiny Food Concept",
+            "summary": "There are several roles to fill in effective food hub. Farmers -&hellip;",
+            "content_html": "<p>There are several roles to fill in effective food hub.</p>\n<p>Farmers - Farmers can use the \"Deploy to Heroku\" button to create a new private Tiny Food instance. This service sets up a secure ecommerce system which is ready to integrate with a free <a href=\"https://stripe.com\" title=\"Stripe Payment Service\">Stripe</a> account.  free of charge, and uses a git service like, <a href=\"https://github.com\">Github</a>, <a href=\"https://gitlab.com\" title=\"Gitlab free versioned repository and CI CD service\">gitlab</a>, or <a href=\"https:/bitbucket.org\" title=\"Bit Bucket free versioned repository service\">Bitbucket</a> to host the code which builds the app on heroku.</p>\n<p> </p>\n<p><a href=\"https://www.heroku.com/deploy/?template=https://github.com/tinyfood/saleor\"><img src=\"https://www.herokucdn.com/deploy/button.svg\" alt=\"Deploy\" ></a></p>\n<p>The button above, launches your own private instance of the latest Tiny Food hub ecommerce system.  The service makes use of <a href=\"https://github.com/mirumee/saleor\">Saleor</a> as our shopping cart and inventory management.  Staff members can be added with specific permissions. We are currently working to add a 'farmer/producer login' and working from the following code branch:</p>\n<p><a href=\"https://github.com/SustainableCommunityDevelopmentHub/saleor/tree/Farmer-login\">https://github.com/SustainableCommunityDevelopmentHub/saleor/tree/Farmer-login</a></p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-10T16:46:14-04:00",
+            "date_modified": "2019-07-10T16:46:48-04:00"
+        },
+        {
+            "id": "https://tinyfood.org/farmer-resources/",
+            "url": "https://tinyfood.org/farmer-resources/",
+            "title": "Producers resources",
+            "summary": "Producers",
+            "content_html": "Producers",
+            "image": "https://tinyfood.org/media/posts/11/nedyio.png",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-01T14:47:23-04:00",
+            "date_modified": "2019-07-10T16:45:09-04:00"
         },
         {
             "id": "https://tinyfood.org/ned-food-hub/",
             "url": "https://tinyfood.org/ned-food-hub/",
             "title": "Ned Food Hub",
-            "summary": "My goal for this hub is to network with some of my friends and neighbors who have expressed interest in high quality food access,&hellip;",
+            "summary": "My goal for this hub is to network with some of my&hellip;",
             "content_html": "<p>My goal for this hub is to network with some of my friends and neighbors who have expressed interest in high quality food access, and willing to work together.</p>\n<p>To me, 'high quality food access' optimizes locality, freshness, seasonality, healthy diets and mindbendingly delicious recipies that inspire us to reach out more to one another, while creating healthy containers for positive interaction with other members of the general community.</p>\n<p>This food hub is live as of this writing:</p>\n<p><a href=\"https://nedfoodhub.herokuapp.com\">https://nedfoodhub.herokuapp.com</a></p>\n<p>  I am currenty working on adding some of my products. </p>\n<p> </p>",
             "image": "https://tinyfood.org/media/posts/9/Screenshot-from-2019-06-18-20-15-36.png",
             "author": {
@@ -35,28 +65,28 @@
             },
             "tags": [
             ],
-            "date_published": "2019-06-16T16:03:42-06:00",
-            "date_modified": "2019-06-19T05:44:09-06:00"
+            "date_published": "2019-06-16T18:03:42-04:00",
+            "date_modified": "2019-06-19T07:44:09-04:00"
         },
         {
             "id": "https://tinyfood.org/north-coast-shoppers-and-farmers-hub/",
             "url": "https://tinyfood.org/north-coast-shoppers-and-farmers-hub/",
             "title": "Tiny Food Canton",
-            "summary": "Tiny Food got its start talking to farmers in the Canton region, and studying what the Open Food Network had accomplished in its first&hellip;",
+            "summary": "Tiny Food got its start talking to farmers in the Canton region,&hellip;",
             "content_html": "<p>Tiny Food got its start talking to farmers in the Canton region, and studying what the <a href=\"https://openfoodnetwork.org\" title=\"Open Food Network\">Open Food Network</a> had accomplished in its first ten years of steady growth internationally.  There was an expressed need for better visibility for local food sources and access to new markets to help them grow their businesses.  The region is beautiul and has many residents who have grown up with a rich farming history and way of life.</p>\n<p>Tiny Food is not a service to assist the elite of our society, rather it is a way to lift up and appreciate those who are the providers. </p>\n<p>We recognize that there is wealth of land knowlege in practice in the north country, and it is our goal to credit those who have worked hard to develop their own methodologies and it is our highest hope that through the use of this project new farmers are connected to good learning opportunities supporting a well informed next generation of sustainable agriculture practitioners.</p>\n<p><a href=\"https://www.traderjoes.com/fearless-flyer\">https://www.traderjoes.com/fearless-flyer</a></p>\n<p>The sites we are developing are live here:</p>\n<p><a href=\"https://northcountry.herokuapp.com\" title=\"North Country Shoppers Hub\">North Country Shoppers Hub</a>  https://northcountry.herokuapp.com</p>\n<p><a href=\"https://northcountry.herokuapp.com\" title=\"North Country Shoppers Hub\">North Country Farmers Hub</a>  <a href=\"https://northcountryfarmers.herokuapp.com\">https://northcountryfarmers.herokuapp.com</a></p>\n<p> </p>",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
-            "date_published": "2019-06-16T13:04:29-06:00",
-            "date_modified": "2019-06-26T18:12:02-06:00"
+            "date_published": "2019-06-16T15:04:29-04:00",
+            "date_modified": "2019-06-26T20:12:02-04:00"
         },
         {
             "id": "https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/",
             "url": "https://tinyfood.org/north-country-new-york-state-shoppers-and-farmers-hub/",
             "title": "New community hubs forming",
-            "summary": "Ned Food Hub live demo site Ned food hub is currently directed at a small group of interested locals (both farmers and health food&hellip;",
+            "summary": "Ned Food Hub live demo site Ned food hub is currently directed&hellip;",
             "content_html": "<p><strong>Ned Food Hub  <a href=\"https://nedfoodhub.herokuapp.com\" title=\"Ned Food Hub\">live demo site</a></strong></p>\n<p> Ned food hub is currently directed at a small group of interested locals (both farmers and health food shoppers) who would like to collaborate on purchases from local farmers and some of the Boulder and Nederland food markets. We are testing the app for finer details, and inviting interested users to try it out.  <a href=\"#INTERNAL_LINK#/post/9\">details</a></p>\n<p><strong>Tiny Food Canton  <a href=\"https://northcountry.herokuapp.com\" title=\"live Northcountry NY test site\">live demo site</a></strong></p>\n<p>Upstate New York group forming in the Canton/ Potsdam region forming to support better representation of local farmers and cooperation between health food bulk staples shoppers who venture to Trader Joes, Costco, or other regional health food stores with products that are specifically difficult to find locally, or priced significantly better further away. <a href=\"north-coast-shoppers-and-farmers-hub\" title=\"North Coast Shoppers and Farmers Huib\">details</a></p>\n<p><strong>Mamawatoto Womens' Group Shop, Machakos, Kenya  <a href=\"https://dukamamawatoto.herokuapp.com\" title=\"DukaMamawatoto\">live demo site</a></strong></p>\n<p>Claudia Mbibda Mwende has been working in her home community of Machakos, Kenya, located halfway between the busy port city of Mambasa and Kenya's inland capitol, Nairobi. She has worked with groups to develop new products from waste stream materials sources, in support of job creation, zero waste initiatives, gardens and nurseries.  Tiny Food proudly works to support Claudia's work and that of the groups she works with.</p>",
             "image": "https://tinyfood.org/media/posts/6/tinyfood0002_chickengreeting.png",
             "author": {
@@ -64,28 +94,28 @@
             },
             "tags": [
             ],
-            "date_published": "2019-06-16T11:43:08-06:00",
-            "date_modified": "2019-06-30T10:44:01-06:00"
+            "date_published": "2019-06-16T13:43:08-04:00",
+            "date_modified": "2019-06-30T12:44:01-04:00"
         },
         {
             "id": "https://tinyfood.org/tiny-food-philosophy/",
             "url": "https://tinyfood.org/tiny-food-philosophy/",
             "title": "Relevant tilth",
-            "summary": "TinyFood.org's goals are in parallel with the values set out by the Open Food Network to help foster a deeper understanding with the land through&hellip;",
+            "summary": "TinyFood.org's goals are in parallel with the values set out by the&hellip;",
             "content_html": "<p>TinyFood.org's goals are in parallel with the <a href=\"https://openfoodnetwork.org/about/values/\" title=\"OFN Values\">values</a> set out by the <a href=\"https://openfoodnetwork.org\" title=\"Open Food Network\">Open Food Network</a> to help foster <span style=\"font-size: inherit;\">a deeper understanding with the land through con</span></p>\n<div class=\"fusion-fullwidth fullwidth-box fusion-parallax-none centerall donation-choices\">\n<div class=\"fusion-row\">\n<div class=\"fusion-one-third one_third fusion-layout-column fusion-spacing-yes donation-choice\">\n<div class=\"fusion-column-wrapper\">\n<p id=\"mcetoc_1ddokq60j0\"><strong>Vision to co-create the global commons</strong></p>\n<p class=\"description\"><strong>Relationships food, all of life, and spirit our our existance.</strong></p>\n</div>\n</div>\n<div class=\"fusion-one-third one_third fusion-layout-column fusion-spacing-yes donation-choice\">\n<div class=\"fusion-column-wrapper\">\n<p class=\"description\"><strong>Farmers and producers dedicated to ecosystem regenerative forms of agriculture, that (re)build resilient natural systems, taking into account soil, air, water and biodiversity.</strong></p>\n</div>\n</div>\n<div class=\"fusion-one-third one_third fusion-layout-column fusion-column-last fusion-spacing-yes donation-choice\"> </div>\n<div class=\"fusion-one-third one_third fusion-layout-column fusion-spacing-yes donation-choice\">\n<div class=\"fusion-column-wrapper\">\n<p id=\"mcetoc_1ddokq60j3\">Transparency in the software platform and the organisation.</p>\n</div>\n</div>\n<div class=\"fusion-column-wrapper\">\n<h4 id=\"mcetoc_1ddokq60j4\">Empowerment to create the lives people want for themselves through a real say in their food system.</h4>\n</div>\n<div class=\"fusion-column-wrapper\">\n<h4 id=\"mcetoc_1ddokq60j5\">Subsidiarity problem solving approach at the lowest appropriate level  </h4>\n</div>\n<div class=\"fusion-column-wrapper\">\n<h4 id=\"mcetoc_1ddokq60j6\">People First with people systems, where care and empathy for each other through solidarity, diversity, inclusivity and tolerance</h4>\n</div>\n<div class=\"fusion-column-wrapper\">\n<h4 id=\"mcetoc_1ddokq60j7\">Constant Evolution requiring constant adaptation and agility.</h4>\n</div>\n<div class=\"fusion-one-third one_third fusion-layout-column fusion-column-last fusion-spacing-yes donation-choice\">\n<div class=\"fusion-column-wrapper\">\n<p id=\"mcetoc_1ddokq60j8\"><strong>Systemic global change to address the root cause of current ills, not its symptoms.</strong></p>\n</div>\n</div>\n<div class=\"fusion-clearfix\"> </div>\n</div>\n</div>\n<div class=\"fusion-fullwidth fullwidth-box fusion-parallax-none whitetext world-signup centerall\">\n<div class=\"fusion-row\">\n<h2 id=\"mcetoc_1ddokq60j9\">So if OFN Exists, why Tiny Food?</h2>\n<p>Tiny food is built on software that is over 10 years more modern than the core CMS being used for the OFN platform.   TF is working to transition new users with the flexibility of Saleor software platform, and has have good success creating new instances for new user groups and use cases on heroku, free of charge.  This low bar for participation excites the team as we see new relevancy in the states, Kenya and beyond.</p>\n</div>\n</div>\n<p> </p>\n<p> </p>\n<p>We are a network which supports new users by allowing them to easily create their own 'nodes' on the network, or test instances of Tiny Food's underlying software .  Nodes can be kept private, or used collectively by a small group.  A small group of community members who have an interest in seeing a more vibrant local food economy can come together by creating a new instance and making use of the secure app provided by heroku . (ie. [your food hub name].herokuapp.com</p>\n<p><strong>Simplicity and Freedom</strong></p>\n<p>You are free to download and change our software to your own needs as per <a href=\"https://raw.githubusercontent.com/mirumee/saleor/master/LICENSE\" title=\"BSD 3-Clause License\">this license</a>. You are encouraged, but not required to share special customizations back to the network.</p>\n<p> </p>\n<p><strong>Run your own hub, or get help.</strong></p>\n<p>New test and live instances for small groups can be deployed quickly with the use of the heroku launch button below. Code for this application depends upon the uptream . Please be aware of its <a href=\"https://github.com/mirumee/saleor/issues\" title=\"https://github.com/mirumee/saleor/issues\">issue queue</a>,  downloadable here, and can be worked on easily via git, as we are open to pull requests related to customizing <a href=\"https://github.com/mirumee/saleor\">Saleor</a>.  The project currently has 4854 stars an</p>\n<p> </p>\n<p>UN Special Rapporteur on the right to food, <br><br>According to Oliver de Schutter has 3 rules for food he came to impose on himself:<br><br>1- to consume local as much as possible<br><br>2- fair trade focus for tropical products with support for communities around the source to develop social projects<br><br>3- favor fresh products that are cooked at home, rather than processed or ultra-processed</p>",
             "author": {
                 "name": "Greg Willson"
             },
             "tags": [
             ],
-            "date_published": "2019-06-16T10:53:42-06:00",
-            "date_modified": "2019-06-19T14:23:13-06:00"
+            "date_published": "2019-06-16T12:53:42-04:00",
+            "date_modified": "2019-06-19T16:23:13-04:00"
         },
         {
             "id": "https://tinyfood.org/food-hubs/",
             "url": "https://tinyfood.org/food-hubs/",
             "title": "Co-operating a Food Hub",
-            "summary": "TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are&hellip;",
+            "summary": "TinyFood.org strives to educate while improving access to high quality food. Our&hellip;",
             "content_html": "<p>TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.</p>\n<p>Why not simply use OFN? Why re-create the wheel?</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-14-36-44.png\" ><img src=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-14-36-44-thumbnail.png\" alt=\"\" width=\"768\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-13-38-29.png\" ><img src=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-13-38-29-thumbnail.png\" alt=\"\" width=\"768\" height=\"448\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-14-15-06.png\" ><img src=\"https://tinyfood.org/media/posts/3/gallery/Screenshot-from-2019-06-16-14-15-06-thumbnail.png\" alt=\"\" width=\"768\" height=\"516\"></a></figure>\n</div>\n<p>We believe that high quality food is a human right,  Science has show us that consumption of high quality food prevents disease, increases congitive and metabolic functions, and speeds up the healing process.  Food connects us to our cultural, economic and environmental sustainability, and effects our community, family, and personal wellbeing.  By networking common needs, and enabling small groups to privately control their own food hub ordering systems, we aim to see huge benefit and transformation in these areas. of our lives and society.</p>\n<p><img class=\"post__image\" src=\"https://tinyfood.org/media/posts/3/Screenshot-from-2019-06-16-13-10-36.png\" alt=\"Olivier De Schutter - OFN Ambassador\" width=\"748\" height=\"393\"></p>\n<p> </p>\n<p>Organic valley's vision inspires me alot, so im putting their ad in here, so you might get a chance to see it and think about it from the tiny food context. </p>\n<div style=\"position: relative; width: 100%; padding-top: 56.25%; padding-bottom: 40px;\"><iframe width=\"680\" height=\"420\" style=\"position: absolute; top: 0; right: 0; left: 0; bottom: 0; width: 100%; height: 100%;\" src=\"https://www.ispot.tv/share/I44w\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>\n<p> </p>",
             "image": "https://tinyfood.org/media/posts/3/jumbo_tinyfood.png",
             "author": {
@@ -93,14 +123,14 @@
             },
             "tags": [
             ],
-            "date_published": "2019-06-04T21:40:44-06:00",
-            "date_modified": "2019-06-25T13:53:41-06:00"
+            "date_published": "2019-06-04T23:40:44-04:00",
+            "date_modified": "2019-06-25T15:53:41-04:00"
         },
         {
             "id": "https://tinyfood.org/technologies-that-power-tiny-food/",
             "url": "https://tinyfood.org/technologies-that-power-tiny-food/",
-            "title": "How To &#x27;TinyFood&#x27;",
-            "summary": " There are several roles to fill in effective food hub. Farmers - Farmers can use the \"Deploy to Heroku\" button to create a&hellip;",
+            "title": "How To Use &#x27;TinyFood&#x27;",
+            "summary": " There are several roles to fill in effective food hub. Farmers&hellip;",
             "content_html": "<p> </p>\n<p>There are several roles to fill in effective food hub.</p>\n<p>Farmers - Farmers can use the \"Deploy to Heroku\" button to create a new private Tiny Food instance. This service sets up a secure ecommerce system which is ready to integrate with a free <a href=\"https://stripe.com\" title=\"Stripe Payment Service\">Stripe</a> account.  free of charge, and uses a git service like, <a href=\"https://github.com\">Github</a>, <a href=\"https://gitlab.com\" title=\"Gitlab free versioned repository and CI CD service\">gitlab</a>, or <a href=\"https:/bitbucket.org\" title=\"Bit Bucket free versioned repository service\">Bitbucket</a> to host the code which builds the app on heroku.</p>\n<p>  </p>\n<p><a href=\"https://www.heroku.com/deploy/?template=https://github.com/tinyfood/saleor\"><img src=\"https://www.herokucdn.com/deploy/button.svg\" alt=\"Deploy\"></a></p>\n<p>The button above, launches your own private instance of the latest Tiny Food hub ecommerce system.  The service makes use of <a href=\"https://github.com/mirumee/saleor\">Saleor</a> as our shopping cart and inventory management.  Staff members can be added with specific permissions. We are currently working to add a 'farmer/producer login' and working from the following code branch:</p>\n<p><a href=\"https://github.com/SustainableCommunityDevelopmentHub/saleor/tree/Farmer-login\">https://github.com/SustainableCommunityDevelopmentHub/saleor/tree/Farmer-login</a></p>",
             "image": "https://tinyfood.org/media/posts/2/empty-checkout-bg00.png",
             "author": {
@@ -108,14 +138,14 @@
             },
             "tags": [
             ],
-            "date_published": "2019-06-04T21:40:22-06:00",
-            "date_modified": "2019-06-19T08:30:32-06:00"
+            "date_published": "2019-06-04T23:40:22-04:00",
+            "date_modified": "2019-07-10T16:45:43-04:00"
         },
         {
             "id": "https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/",
             "url": "https://tinyfood.org/tinyfood-app-hubs-are-going-up-now/",
             "title": "Tiny Food Community Food hub service",
-            "summary": "Tiny Food provides a free, ready-to-use ecommerce service for farmers and food hubs. We reccomend that each group make use of their own private&hellip;",
+            "summary": "Tiny Food provides a free, ready-to-use ecommerce service for farmers and food&hellip;",
             "content_html": "<p>Tiny Food provides a free, ready-to-use ecommerce service for farmers and food hubs. We reccomend that each group make use of their own private web shop by making use of this launch button,</p>\n<p><a href=\"https://www.heroku.com/deploy/?template=https://github.com/tinyfood/saleor\"><img src=\"https://www.herokucdn.com/deploy/button.svg\" alt=\"Deploy\"></a></p>\n<p>Please contact <a href=\"mailto:greg@scdhub.org\">greg@scdhub.org</a> so we can link to your hub, and provide assistance with your launch.  We provide limited assistance free of charge. Tiny Food willingly accepts donations, should you be in a position to make a tax deducable charitable donation in support of this work.</p>\n<p>The two primary functions of tiny food community food hub service is (1) to allow local people to establish direct ordering relationships from their local farmers, and (2) to support groups of local food buyers to</p>\n<p>Your site is yours to own and operate, the ecommerce software is free software, secure hosting of your food hub's web application is possible by the free tier of heroku.com cloud service and git (<a href=\"github.com\" title=\"github.com\" target=\"_blank\" rel=\"noopener noreferrer\">github.com</a>, <a href=\"gitlab.com\" title=\"gitlab.com\" target=\"_blank\" rel=\"noopener noreferrer\">gitlab.com</a>, or <a href=\"bitbucket.org\" title=\"bitbucket.org\" target=\"_blank\" rel=\"noopener noreferrer\">bitbucket.org</a>)</p>\n<p><strong>Branding?</strong> You can use your own .com / .org / .x securely via heroku.com for $7/mo if you would rather that than https://{yourhubname}.herokuapp.com      We have customized a few things to make it easier to get started, and are preparing a zip file of all the customizable graphics for the app and web service which you can pass along to a graphic designer or work on yourself.  The free program gimp works well for graphic changes, as does inkscape for making vector (SVG) graphics.</p>",
             "image": "https://tinyfood.org/media/posts/1/tinyfood0001.png",
             "author": {
@@ -123,8 +153,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-06-04T10:21:52-06:00",
-            "date_modified": "2019-06-30T10:27:37-06:00"
+            "date_published": "2019-06-04T12:21:52-04:00",
+            "date_modified": "2019-06-30T12:27:37-04:00"
         }
     ]
 }
