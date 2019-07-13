@@ -3,21 +3,21 @@
     <title>Tiny Food Community Hubs</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-07-10T18:30:32-04:00</updated>
+    <updated>2019-07-13T17:42:26-04:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
     <id>https://tinyfood.org</id>
 
     <entry>
-        <title>Regions</title>
+        <title>Tinyfood Regions</title>
         <author>
             <name>Greg Willson</name>
         </author>
         <link href="https://tinyfood.org/regions/"/>
         <id>https://tinyfood.org/regions/</id>
 
-        <updated>2019-07-10T16:55:18-04:00</updated>
+        <updated>2019-07-13T17:42:11-04:00</updated>
             <summary>
                 <![CDATA[
                     If you are part of a food hub and would like to&hellip;
@@ -25,13 +25,12 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>If you are part of a food hub and would like to try out our sofrware, we will list your hub here.</p>
-<p> </p>
-<p>Currently all hubs are in formation phase, and web shops have been set up for farmers and producers ain the following regions:</p>
-<p>Canton/Potsdam Northcountry Region of Upstate New York, USA  (<a href="https://northcountry.herokuapp.com" title="Northcountry Food Hub App" target="_blank" rel="noopener noreferrer">hub app</a>)</p>
-<p>Boulder Colorado, USA  (hub app)</p>
-<p>Machakos, Kenya  (hub app)</p>
-<p>Kibera/Njiru Kenya  (hub app)</p>
+                <p>If you are part of a food hub and would like to try out our sofrware, we will list your hub here.  Currently the tinyfood software supported hubs are in formation phase, and web shops have been set up for farmers and producers in the following regions:</p>
+<p>Canton/Potsdam Northcountry Region of Upstate New York, USA  (<a href="https://northcountry.herokuapp.com" title="Northcountry Food Hub App" target="_blank" rel="noopener noreferrer">Northcountry food hub app</a>)</p>
+<p>Boulder Colorado, USA  -   (<a href="https://nedfoodhub.herokuapp.com" title="Nederland local natural food buyers group &amp; organic food buyers club">Nederland local natural food buyers group &amp; organic food buyers club</a>)</p>
+<p>Machakos, Kenya  (<a href="https://duamamawatoto.herouapp.com" title="Mamawatoto Womens Group- plastic pickers and upcycled crafts collective">Mamawatoto Womens Group- plastic pickers and upcycled crafts collective</a>)</p>
+<p>Kibera/Njiru Kenya  (<a href="https://econairobi.herokuapp.com" title="NRB EcoBlock app">NRB EcoBlock app</a>)</p>
+<p>webshops- (<a href="https://artkiosk.herokuapp.com" title="Artkiosk Njiru Kenya">Artkiosk</a>)(<a href="https://bridgetek.herouapp.com" title="Bridgetek Njiru Kenya">Bridgetek</a>)(<a href="https://dukamamawatoto.herokuapp.com" title="Mamawatoto Womens Group">Mamawatoto</a>)(<a href="https://victoriousbones.herokuapp.com" title="Victorious Crafters Group">Victorious Crafters Group</a>)</p>
             ]]>
         </content>
     </entry>
@@ -43,7 +42,7 @@
         <link href="https://tinyfood.org/tiny-food-concept/"/>
         <id>https://tinyfood.org/tiny-food-concept/</id>
 
-        <updated>2019-07-10T16:46:48-04:00</updated>
+        <updated>2019-07-13T08:55:30-04:00</updated>
             <summary>
                 <![CDATA[
                     There are several roles to fill in effective food hub. Farmers -&hellip;
@@ -53,8 +52,7 @@
             <![CDATA[
                 <p>There are several roles to fill in effective food hub.</p>
 <p>Farmers - Farmers can use the "Deploy to Heroku" button to create a new private Tiny Food instance. This service sets up a secure ecommerce system which is ready to integrate with a free <a href="https://stripe.com" title="Stripe Payment Service">Stripe</a> account.  free of charge, and uses a git service like, <a href="https://github.com">Github</a>, <a href="https://gitlab.com" title="Gitlab free versioned repository and CI CD service">gitlab</a>, or <a href="https:/bitbucket.org" title="Bit Bucket free versioned repository service">Bitbucket</a> to host the code which builds the app on heroku.</p>
-<p> </p>
-<p><a href="https://www.heroku.com/deploy/?template=https://github.com/tinyfood/saleor"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" ></a></p>
+<p><a href="https://www.heroku.com/deploy/?template=https://github.com/tinyjunkyard/artkiosk_saleor"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" ></a></p>
 <p>The button above, launches your own private instance of the latest Tiny Food hub ecommerce system.  The service makes use of <a href="https://github.com/mirumee/saleor">Saleor</a> as our shopping cart and inventory management.  Staff members can be added with specific permissions. We are currently working to add a 'farmer/producer login' and working from the following code branch:</p>
 <p><a href="https://github.com/SustainableCommunityDevelopmentHub/saleor/tree/Farmer-login">https://github.com/SustainableCommunityDevelopmentHub/saleor/tree/Farmer-login</a></p>
             ]]>
@@ -246,7 +244,7 @@
         <link href="https://tinyfood.org/food-hubs/"/>
         <id>https://tinyfood.org/food-hubs/</id>
 
-        <updated>2019-06-25T15:53:41-04:00</updated>
+        <updated>2019-07-13T08:58:37-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://tinyfood.org/media/posts/3/jumbo_tinyfood.png" alt="" />
@@ -265,8 +263,7 @@
 </div>
 <p>We believe that high quality food is a human right,  Science has show us that consumption of high quality food prevents disease, increases congitive and metabolic functions, and speeds up the healing process.  Food connects us to our cultural, economic and environmental sustainability, and effects our community, family, and personal wellbeing.  By networking common needs, and enabling small groups to privately control their own food hub ordering systems, we aim to see huge benefit and transformation in these areas. of our lives and society.</p>
 <p><img class="post__image" src="https://tinyfood.org/media/posts/3/Screenshot-from-2019-06-16-13-10-36.png" alt="Olivier De Schutter - OFN Ambassador" width="748" height="393"></p>
-<p> </p>
-<p>Organic valley's vision inspires me alot, so im putting their ad in here, so you might get a chance to see it and think about it from the tiny food context. </p>
+<p> Organic valley's vision is inspiring and is on point with the tiny food free software supported community food hub concept. There are many good compaines and cooperatives I will be adding the resource page to help buyers groups with researching high quality food sources. </p>
 <div style="position: relative; width: 100%; padding-top: 56.25%; padding-bottom: 40px;"><iframe width="680" height="420" style="position: absolute; top: 0; right: 0; left: 0; bottom: 0; width: 100%; height: 100%;" src="https://www.ispot.tv/share/I44w" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></div>
 <p> </p>
 <p> </p>
