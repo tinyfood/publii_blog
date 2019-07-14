@@ -3,7 +3,7 @@
     <title>Tiny Food Community Hubs</title>
     <link href="https://tinyfood.org/feed.xml" rel="self" />
     <link href="https://tinyfood.org" />
-    <updated>2019-07-13T17:42:26-04:00</updated>
+    <updated>2019-07-14T13:08:38-04:00</updated>
     <author>
         <name>Greg Willson</name>
     </author>
@@ -42,15 +42,17 @@
         <link href="https://tinyfood.org/tiny-food-concept/"/>
         <id>https://tinyfood.org/tiny-food-concept/</id>
 
-        <updated>2019-07-13T08:55:30-04:00</updated>
+        <updated>2019-07-14T13:08:25-04:00</updated>
             <summary>
                 <![CDATA[
-                    There are several roles to fill in effective food hub. Farmers -&hellip;
+                    TinyFood.org strives to educate while improving access to high quality food. Our&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>There are several roles to fill in effective food hub.</p>
+                <p>TinyFood.org strives to educate while improving access to high quality food. Our approach is to support the development of food hubs. Our goals are basic... to make it possible for low income families to afford predominantly organic, locally sourced sustainable foods.</p>
+<p><strong>Responsibilities of a food hub manager</strong></p>
+<p>Food hubs are typically coordinated by one person who is compensated in some way for her efforts. The benchmark set up the <a href="https://openfoodnetwork.org" title="Open Food Network">Open Food Network</a>. She typically maintains contact with different sources and providers and reaches out to the general community to ensure that people know far in advance that a group has formed to provide access to local and healthy food. </p>
 <p>Farmers - Farmers can use the "Deploy to Heroku" button to create a new private Tiny Food instance. This service sets up a secure ecommerce system which is ready to integrate with a free <a href="https://stripe.com" title="Stripe Payment Service">Stripe</a> account.  free of charge, and uses a git service like, <a href="https://github.com">Github</a>, <a href="https://gitlab.com" title="Gitlab free versioned repository and CI CD service">gitlab</a>, or <a href="https:/bitbucket.org" title="Bit Bucket free versioned repository service">Bitbucket</a> to host the code which builds the app on heroku.</p>
 <p><a href="https://www.heroku.com/deploy/?template=https://github.com/tinyjunkyard/artkiosk_saleor"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" ></a></p>
 <p>The button above, launches your own private instance of the latest Tiny Food hub ecommerce system.  The service makes use of <a href="https://github.com/mirumee/saleor">Saleor</a> as our shopping cart and inventory management.  Staff members can be added with specific permissions. We are currently working to add a 'farmer/producer login' and working from the following code branch:</p>
